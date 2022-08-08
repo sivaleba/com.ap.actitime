@@ -9,8 +9,12 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /*
-
- */
+ * Name=Driver script
+ * Developed By:Siva
+ * Created date:8/2/21
+ * Updated date:8/8/22
+ * Description:This is responsible for all the driver related activites.
+*/
 public class DriverScript {
 
 	public static WebDriver driver;

@@ -6,6 +6,13 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.demoacti.base.DriverScript;
 
+/*
+ * Name=Driverscript
+ * Developed By:Siva
+ * Created date:8/2/21
+ * Updated date:8/8/22
+ * Description:This is responsible for all the driver related activites.
+*/
 public class EnterTimePage extends DriverScript{
 	
 	 //*******************Page initialization****************************//
